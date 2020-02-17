@@ -13,7 +13,8 @@
 
         <Button Content="Waterman" HorizontalAlignment="Left" Margin="33,76,0,0" VerticalAlignment="Top" Width="215" Click="Waterman_Click" Background="#FF32C79E"/>
 
-        <Button Content="Volg mij op SoundCloud" HorizontalAlignment="Left" Margin="248,10,0,0" VerticalAlignment="Top" Width="534" Height="399" FontSize="48" FontFamily="Segoe UI Emoji" Click="Button_Click_1" Background="#FFFFC0EE"/>
+        <Button Content="Volg mij op SoundCloud" HorizontalAlignment="Left" Margin="33,326,0,0" VerticalAlignment="Top" Width="749" Height="83" FontSize="48" FontFamily="Segoe UI Emoji" Click="Button_Click_1" Background="#FFFFC0EE"/>
+        <Button x:Name="Sarah" Content="KOM allemaal naar VATERVER!! " HorizontalAlignment="Left" Margin="33,177,0,0" VerticalAlignment="Top" Width="727" Height="61" Background="#FF1DD5E8" FontSize="36" FontWeight="Bold" Click="Sarah_Click"/>
 
 
     </Grid>
