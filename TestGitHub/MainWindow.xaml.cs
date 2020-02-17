@@ -29,5 +29,10 @@ namespace TestGitHub
         {
             MessageBox.Show("Je klikte op Kathleen Geuens");
         }
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("Je klikte op de Husky");
+        }
     }
 }
