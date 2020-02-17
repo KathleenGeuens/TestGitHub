@@ -34,5 +34,9 @@ namespace TestGitHub
         {
             MessageBox.Show("Ik zen de waterman");
         }
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("Fix mij viraal gaan op SoundCloud door mijn muziek te gebruiken op TikTok XD, SoundCloud.comZJEF");
+        }
     }
 }

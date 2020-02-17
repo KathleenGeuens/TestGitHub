@@ -9,6 +9,7 @@
     <Grid>
         <Button Content="Kathleen Geuens" HorizontalAlignment="Left" Margin="33,35,0,0" VerticalAlignment="Top" Width="215" Click="Button_Click" Background="#FFE41A1A" Foreground="#FFF9EEEE"/>
         <Button Content="Waterman" HorizontalAlignment="Left" Margin="33,76,0,0" VerticalAlignment="Top" Width="215" Click="Waterman_Click" Background="#FF32C79E"/>
+        <Button Content="Volg mij op SoundCloud" HorizontalAlignment="Left" Margin="248,10,0,0" VerticalAlignment="Top" Width="534" Height="399" FontSize="48" FontFamily="Segoe UI Emoji" Click="Button_Click_1" Background="#FFFFC0EE"/>
 
     </Grid>
 </Window>
