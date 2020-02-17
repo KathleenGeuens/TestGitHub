@@ -30,6 +30,10 @@ namespace TestGitHub
             MessageBox.Show("Je klikte op Kathleen Geuens");
         }
 
+        private void Waterman_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("Ik zen de waterman");
+        }
         private void Button_Click_1(object sender, RoutedEventArgs e)
         {
 
