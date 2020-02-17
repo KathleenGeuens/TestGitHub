@@ -6,8 +6,9 @@
         xmlns:local="clr-namespace:TestGitHub"
         mc:Ignorable="d"
         Title="Collaborate on GitHub" Height="450" Width="800">
-    <Grid>
-        <Button Content="Kathleen Geuens" HorizontalAlignment="Left" Margin="33,35,0,0" VerticalAlignment="Top" Width="215" Click="Button_Click" Background="#FFE41A1A" Foreground="#FFF9EEEE"/>
+  <Grid>
+    <Button Content="Kathleen Geuens" HorizontalAlignment="Left" Margin="33,35,0,0" VerticalAlignment="Top" Width="215" Click="Button_Click" Background="#FFE41A1A" Foreground="#FFF9EEEE"/>
+    <Button Content="Jolien Delsemme" HorizontalAlignment="Left" Margin="33,78,0,0" VerticalAlignment="Top" Width="215" Click="Button_Click_1" Background="#FFF76FD2"/>
 
-    </Grid>
+  </Grid>
 </Window>
