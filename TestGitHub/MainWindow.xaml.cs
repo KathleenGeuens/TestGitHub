@@ -42,5 +42,10 @@ namespace TestGitHub
             MessageBox.Show("Fix mij viraal gaan op SoundCloud door mijn muziek te gebruiken op TikTok XD, SoundCloud.comZJEF");
 
         }
+
+        private void btnKlik_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("Je klikte op de knop om te klikken");
+        }
     }
 }

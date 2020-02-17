@@ -14,6 +14,7 @@
         <Button Content="Waterman" HorizontalAlignment="Left" Margin="33,76,0,0" VerticalAlignment="Top" Width="215" Click="Waterman_Click" Background="#FF32C79E"/>
 
         <Button Content="Volg mij op SoundCloud" HorizontalAlignment="Left" Margin="248,10,0,0" VerticalAlignment="Top" Width="534" Height="399" FontSize="48" FontFamily="Segoe UI Emoji" Click="Button_Click_1" Background="#FFFFC0EE"/>
+        <Button Background="Salmon" x:Name="btnKlik" Content="Klik hier voor te klikken" HorizontalAlignment="Left" Height="24" Margin="33,337,0,0" VerticalAlignment="Top" Width="210" Click="btnKlik_Click"/>
 
 
     </Grid>
