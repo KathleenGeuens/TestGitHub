@@ -32,7 +32,11 @@ namespace TestGitHub
 
         private void Button_Click_1(object sender, RoutedEventArgs e)
         {
+
             MessageBox.Show("Je klikte op de Husky");
+
+            MessageBox.Show("Fix mij viraal gaan op SoundCloud door mijn muziek te gebruiken op TikTok XD, SoundCloud.comZJEF");
+
         }
     }
 }
