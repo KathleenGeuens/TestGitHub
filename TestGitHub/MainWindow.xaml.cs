@@ -31,6 +31,11 @@ namespace TestGitHub
         }
 
 
+        private void Button_PJ(object sender, RoutedEventArgs e)
+        {
+MessageBox.Show("Je klikte op PJ");
+        }
+
         private void Jolien_Click(object sender, RoutedEventArgs e)
         {
             MessageBox.Show("Je klikte op Jolien Delsemme");
@@ -57,5 +62,6 @@ namespace TestGitHub
         {
             MessageBox.Show("Beste feestje van het jaar!");
         }
+
     }
 }
