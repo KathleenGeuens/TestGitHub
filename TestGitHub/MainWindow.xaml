@@ -6,15 +6,23 @@
         xmlns:local="clr-namespace:TestGitHub"
         mc:Ignorable="d"
         Title="Collaborate on GitHub" Height="450" Width="800">
-    <Grid Background="#FFC83636">
-        <Button Content="Kathleen Geuens" HorizontalAlignment="Left" Margin="33,35,0,0" VerticalAlignment="Top" Width="215" Click="Button_Click" Background="#FFE41A1A" Foreground="#FFF9EEEE"/>
+
+  <Grid Background="#FFC83636">
+    <Button Content="Kathleen Geuens" HorizontalAlignment="Left" Margin="33,35,0,0" VerticalAlignment="Top" Width="215" Click="Button_Click" Background="#FFE41A1A" Foreground="#FFF9EEEE"/>
+    <Button Content="Jolien Delsemme" HorizontalAlignment="Left" Margin="33,78,0,0" VerticalAlignment="Top" Width="215" Click="Jolien_Click" Background="#FFF76FD2"/>
+
+        
+        <Button Content="Brik Govaers" HorizontalAlignment="Left" Margin="33,60,0,0" VerticalAlignment="Top" Width="215"  Background="#FFE41A1A" Foreground="#FFF9EEEE" Click="Button_Click_1"/>
+
 
         <Button Content="De Husky" HorizontalAlignment="Left" Margin="33,110,0,0" VerticalAlignment="Top" Width="215" Height="24" Background="Black" Foreground="#FFFF5D00" Click="Button_Click_1"/>
 
         <Button Content="Waterman" HorizontalAlignment="Left" Margin="33,76,0,0" VerticalAlignment="Top" Width="215" Click="Waterman_Click" Background="#FF32C79E"/>
 
-        <Button Content="Volg mij op SoundCloud" HorizontalAlignment="Left" Margin="248,352,0,0" VerticalAlignment="Top" Width="534" Height="57" FontSize="48" FontFamily="Segoe UI Emoji" Click="Button_Click_1" Background="#FFFFC0EE"/>
+
+        <Button Content="Volg mij op SoundCloud" HorizontalAlignment="Left" Margin="33,326,0,0" VerticalAlignment="Top" Width="749" Height="83" FontSize="48" FontFamily="Segoe UI Emoji" Click="Button_Click_1" Background="#FFFFC0EE"/>
+        <Button x:Name="Sarah" Content="KOM allemaal naar VATERVER!! " HorizontalAlignment="Left" Margin="33,177,0,0" VerticalAlignment="Top" Width="727" Height="61" Background="#FF1DD5E8" FontSize="36" FontWeight="Bold" Click="Sarah_Click"/>
 
 
-    </Grid>
+  </Grid>
 </Window>
