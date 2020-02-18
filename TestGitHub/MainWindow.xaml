@@ -13,7 +13,8 @@
 
         <Button Content="Waterman" HorizontalAlignment="Left" Margin="33,76,0,0" VerticalAlignment="Top" Width="215" Click="Waterman_Click" Background="#FF32C79E"/>
 
-        <Button Content="Volg mij op SoundCloud" HorizontalAlignment="Left" Margin="248,10,0,0" VerticalAlignment="Top" Width="534" Height="399" FontSize="48" FontFamily="Segoe UI Emoji" Click="Button_Click_1" Background="#FFFFC0EE"/>
+        <Button Content="Volg mij op SoundCloud" HorizontalAlignment="Left" Margin="10,279,0,0" VerticalAlignment="Top" Width="772" Height="81" FontSize="48" FontFamily="Segoe UI Emoji" Click="Button_Click_1" Background="#FFFFC0EE"/>
+        <Button Content="Ontvolg Zjef Biesefrans" HorizontalAlignment="Left" VerticalAlignment="Top" Width="772" Margin="10,365,0,0" Height="44" FontSize="28" Click="Button_Click_2"/>
 
 
     </Grid>
