@@ -44,6 +44,7 @@ MessageBox.Show("Je klikte op PJ");
         private void Button_Click_1(object sender, RoutedEventArgs e)
         {
             MessageBox.Show("Je klikte op Brik Govaers");
+            MessageBox.Show("Je klikte op Mats Claes");
             
         private void Waterman_Click(object sender, RoutedEventArgs e)
         {
@@ -62,6 +63,7 @@ MessageBox.Show("Je klikte op PJ");
         {
             MessageBox.Show("Beste feestje van het jaar!");
         }
+
 
     }
 }
