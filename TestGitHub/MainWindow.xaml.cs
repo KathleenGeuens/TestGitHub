@@ -30,6 +30,11 @@ namespace TestGitHub
             MessageBox.Show("Je klikte op Kathleen Geuens");
         }
 
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("Je klikte op Brik Govaers");
+            
         private void Waterman_Click(object sender, RoutedEventArgs e)
         {
             MessageBox.Show("Ik zen de waterman");
@@ -46,6 +51,7 @@ namespace TestGitHub
         private void Sarah_Click(object sender, RoutedEventArgs e)
         {
             MessageBox.Show("Beste feestje van het jaar!");
+
         }
     }
 }
